@@ -1,0 +1,44 @@
+Conjunto de dados sobre o Comportamento de Visualização dos Usuários da Netflix
+(Cléssio Kaliel dos Santos)
+
+📊 Característica do Conjunto de dados
+
+ -50.000 usuários
+ -20 caracteristicas comportamentais e demográficas
+ -Comportamento de streaming sintético realista
+ -Adequado para aprendizagem supervisionada e não supervisionada
+
+📊 Análise de Interação entre Variáveis:
+==================================================
+🔍 Taxa de Visualização por Sexo e País:
+
+- EUA:
+   ✓ Macho: 25%
+   ✓ Femêa: 75%
+   
+- Brasil:
+   ✓ Macho: 23%
+   ✓ Femêa: 77%
+
+-Japão:
+   ✓ Macho: 21%
+   ✓ Femêa: 79%
+
+
+🎯 Casos Extremos:
+
+✅ Maior Taxa de Visualisações: Japão, Estados, Brasil
+❌ Pior Taxa de Visualizção: Espanha
+
+📈 Correlação Geral das visualizações com sexos:
+✓ Macho: 25%
+✓ Femêa: 75% 
+
+📋 Insights da Análise Combinada:
+
+✅ Sexo com a Maior Taxa de Visualizações é o Feminino
+✅ Classe social irá interferir na Taxa de Visualições
+✅ Mulheres tem aproximadamente 70% a mais de taxa de visualições que os homens
+✅ Homens foram os que tiveram a menor taxa de visualizações de acordo, com a Média 
+✅ Idade também vai interferir na Taxa de Visualizações
+✅ Preço da assinatura correlaciona com a taxa de visualização
